@@ -82,7 +82,7 @@
 		{
 			"name": "Hook of Butchery",
 			"type": "M",
-			"weaponCategory": "martial",
+			"weaponCategory": "super martial",
 			"weight": 2,
 			"dmg1": "1d8",
 			"dmgType": "P",
@@ -92,7 +92,7 @@
 			],
 			"range": "40/40",
 			"tier": "major",
-			"rarity": "very rare",
+			"rarity": "very rare even",
 			"source": "GiddyItem",
 			"value": 2000,
 			"currencyConversion": "GiddyCurrency",
